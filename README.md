@@ -4,8 +4,8 @@ The `MyToken` contract is a simple implementation of a token contract on the Eth
 
 ## Token Details
 
-- Token Name: sheddi
-- Token Abbreviation: nikker
+- Token Name: tok
+- Token Abbreviation: hydra
 - Total Supply: 0
 
 ## Contract Features
